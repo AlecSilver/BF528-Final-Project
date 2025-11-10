@@ -1,0 +1,3 @@
+[submodule "cellphonedb-data"]
+	path = cellphonedb-data
+	url = https://github.com/ventolab/cellphonedb-data.git

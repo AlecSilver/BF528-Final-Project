@@ -1,0 +1,11 @@
+samples
+zip_files
+.nfs000000025d73c1b000000538
+.nfs0000000a1bf1477800000536
+*.pickle
+.ipynb_checkpoints/
+annotated.hdf5
+cellphone_out/
+images/
+marker_genes.tsv
+*.sif
